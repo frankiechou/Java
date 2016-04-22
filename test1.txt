@@ -2,4 +2,6 @@
 
 22222
 
-eidt local1
+edit local1
+
+edit local2
